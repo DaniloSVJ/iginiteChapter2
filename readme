@@ -1,0 +1,4 @@
+'?:'  //faz com que o atributo seja opcional   
+'ts-node-dev' // serve para não ter que ficar dando yarn tsc
+'--transpile-only' //Para não ficar dando erro se a sintaxe está correta
+'--ignore'
